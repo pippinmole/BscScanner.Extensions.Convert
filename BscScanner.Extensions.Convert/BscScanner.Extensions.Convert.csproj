@@ -2,6 +2,15 @@
 
     <PropertyGroup>
         <TargetFramework>net5.0</TargetFramework>
+        <PackageVersion>0.1.0</PackageVersion>
+        <Title>BscScanner.Extensions.Convert</Title>
+        <Authors>pippin_mole</Authors>
+        <Description>A conversion library to convert between Binance (Smart) Chain units</Description>
+        <PackageProjectUrl>https://github.com/pippinmole/BscScanner.Extensions.Convert</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/pippinmole/BscScanner.Extensions.Convert/blob/main/LICENSE</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/pippinmole/BscScanner.Extensions.Convert</RepositoryUrl>
+        <PackageTags>bsc,binance,smart,chain,library,conversion,gwei,wei</PackageTags>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
 
 </Project>
