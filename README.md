@@ -3,7 +3,7 @@
 
 [![NuGet version (BscScanner)](https://img.shields.io/github/license/pippinmole/BscScanner.Extensions.Convert?style=for-the-badge)](https://www.nuget.org/packages/BscScanner.Extensions.Convert)
 [![NuGet downloads](https://img.shields.io/nuget/dt/BscScanner.Extensions.Convert?style=for-the-badge)](https://www.nuget.org/packages/BscScanner.Extensions.Convert)
-[![Code size](https://img.shields.io/github/repo-size/pippinmole/BscScanner.Extensions.Convert?style=for-the-badge)](https://github.com/pippinmole/BscScanner.Extensions.Convert)
+[![Code size](https://img.shields.io/github/languages/code-size/pippinmole/BscScanner.Extensions.Convert?style=for-the-badge)](https://github.com/pippinmole/BscScanner.Extensions.Convert)
 
 ## How to use
 
