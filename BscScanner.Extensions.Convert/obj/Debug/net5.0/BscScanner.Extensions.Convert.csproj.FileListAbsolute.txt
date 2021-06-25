@@ -1,0 +1,12 @@
+C:\Users\icond\Documents\Coding\.NET Libraries\BscScanner.Extensions.Convert\BscScanner.Extensions.Convert\bin\Debug\net5.0\BscScanner.Extensions.Convert.deps.json
+C:\Users\icond\Documents\Coding\.NET Libraries\BscScanner.Extensions.Convert\BscScanner.Extensions.Convert\bin\Debug\net5.0\BscScanner.Extensions.Convert.dll
+C:\Users\icond\Documents\Coding\.NET Libraries\BscScanner.Extensions.Convert\BscScanner.Extensions.Convert\bin\Debug\net5.0\ref\BscScanner.Extensions.Convert.dll
+C:\Users\icond\Documents\Coding\.NET Libraries\BscScanner.Extensions.Convert\BscScanner.Extensions.Convert\bin\Debug\net5.0\BscScanner.Extensions.Convert.pdb
+C:\Users\icond\Documents\Coding\.NET Libraries\BscScanner.Extensions.Convert\BscScanner.Extensions.Convert\obj\Debug\net5.0\BscScanner.Extensions.Convert.csprojAssemblyReference.cache
+C:\Users\icond\Documents\Coding\.NET Libraries\BscScanner.Extensions.Convert\BscScanner.Extensions.Convert\obj\Debug\net5.0\BscScanner.Extensions.Convert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icond\Documents\Coding\.NET Libraries\BscScanner.Extensions.Convert\BscScanner.Extensions.Convert\obj\Debug\net5.0\BscScanner.Extensions.Convert.AssemblyInfoInputs.cache
+C:\Users\icond\Documents\Coding\.NET Libraries\BscScanner.Extensions.Convert\BscScanner.Extensions.Convert\obj\Debug\net5.0\BscScanner.Extensions.Convert.AssemblyInfo.cs
+C:\Users\icond\Documents\Coding\.NET Libraries\BscScanner.Extensions.Convert\BscScanner.Extensions.Convert\obj\Debug\net5.0\BscScanner.Extensions.Convert.csproj.CoreCompileInputs.cache
+C:\Users\icond\Documents\Coding\.NET Libraries\BscScanner.Extensions.Convert\BscScanner.Extensions.Convert\obj\Debug\net5.0\BscScanner.Extensions.Convert.dll
+C:\Users\icond\Documents\Coding\.NET Libraries\BscScanner.Extensions.Convert\BscScanner.Extensions.Convert\obj\Debug\net5.0\ref\BscScanner.Extensions.Convert.dll
+C:\Users\icond\Documents\Coding\.NET Libraries\BscScanner.Extensions.Convert\BscScanner.Extensions.Convert\obj\Debug\net5.0\BscScanner.Extensions.Convert.pdb
