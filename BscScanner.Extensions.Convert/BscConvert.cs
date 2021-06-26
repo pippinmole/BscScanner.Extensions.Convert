@@ -1,19 +1,14 @@
 ﻿namespace BscScanner.Extensions.Convert {
     public static class BscConvert {
-        public static double GweiToBnb(float gwei) {
-            return gwei * 0.000000000000000001f;
-        }
-
-        public static double GweiToBnb(double gwei) {
-            return gwei * 0.000000000000000001f;
-        }
         
-        public static float BnbToGwei(double gwei) {
-            return (float) (gwei / 0.000000000000000001);
+        private const decimal BnbPerGwei = 0.000000000000000001m;
+
+        public static decimal GweiToBnb(decimal gwei) {
+            return gwei * BnbPerGwei;
         }
 
-        public static float BnbToGwei(float gwei) {
-            return (float) (gwei / 0.000000000000000001);
+        public static decimal BnbToGwei(decimal bnb) {
+            return bnb / BnbPerGwei;
         }
     }
 }
